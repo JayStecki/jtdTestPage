@@ -1,5 +1,6 @@
 ---
 title: Hello World
-layout: nice
+layout: home
+nav_order: 1
 ---
 

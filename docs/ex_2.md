@@ -1,8 +1,8 @@
 ---
 title: Example
 layout: default
-parent:
-nav_order: 1
+parent: 
+nav_order: 3
 ---
 
 # Title<!-- omit in toc -->

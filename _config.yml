@@ -3,7 +3,7 @@ description: Just the Docs Exercise
 theme: just-the-docs
 color_scheme: dark
 footer_content: "Very nice footer. Made by JS 2025"
-favicon_ico: "images/DinoWifi.jpg"
+logo:: "images/DinoWifi.jpg"
 
 url: https://JayStecki.github.io/jtdTestPage
 

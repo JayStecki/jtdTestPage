@@ -5,6 +5,7 @@ color_scheme: dark
 footer_content: "A nicer footer. Made by KS 2025"
 logo: "images/DinoWifi.png"
 favicon_ico: "/images/DinoWifi.ico"
+has_toc: false
 
 url: https://JayStecki.github.io/jtdTestPage
 
